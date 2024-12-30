@@ -1,6 +1,6 @@
 {
-    "name": "test_appwrite",
-    "short_name": "test_appwrite",
+    "name": "bluehopeweb",
+    "short_name": "bluehopeweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

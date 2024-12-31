@@ -1,11 +1,11 @@
 {
-    "name": "bluehopeweb",
-    "short_name": "bluehopeweb",
+    "name": "Blue Hope",
+    "short_name": "Blue Hope",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Blue Hope",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

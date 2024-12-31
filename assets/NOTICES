@@ -1717,6 +1717,7 @@ ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 appwrite
+dart_appwrite
 
 Copyright (c) 2024 Appwrite (https://appwrite.io) and individual contributors.
 All rights reserved.

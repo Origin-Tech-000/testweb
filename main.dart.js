@@ -38714,7 +38714,7 @@ A.yr.prototype={
 ai(){return new A.QM()}}
 A.QM.prototype={
 L(a){var s=null
-return new A.ya(new A.Gy(s),"BlueHope",A.tz(s,A.at_(B.a8,s,s,B.Ic),"ARP80",!0),s)}}
+return new A.ya(new A.Gy(s),"Blue Hope",A.tz(s,A.at_(B.a8,s,s,B.Ic),"ARP80",!0),s)}}
 A.y6.prototype={
 ai(){return new A.Qo()}}
 A.Qo.prototype={

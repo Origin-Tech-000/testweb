@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {".vscode/settings.json": "19751b2a32e46d1ba1477f357123a898",
-"assets/AssetManifest.bin": "20bdc5f2490b6b13c3d899bf0a8fe07b",
+const RESOURCES = {"assets/AssetManifest.bin": "20bdc5f2490b6b13c3d899bf0a8fe07b",
 "assets/AssetManifest.bin.json": "8a10e785baf142f9400e070a175e701e",
 "assets/AssetManifest.json": "164cabc06eab3a5e6f8177064d6d9b63",
 "assets/assets/bg.json": "7cca79ff1b4a9e1482f387f0392a47cf",
@@ -30,17 +29,15 @@ const RESOURCES = {".vscode/settings.json": "19751b2a32e46d1ba1477f357123a898",
 "canvaskit/skwasm.js.symbols": "96263e00e3c9bd9cd878ead867c04f3c",
 "canvaskit/skwasm.wasm": "828c26a0b1cc8eb1adacbdd0c5e8bcfa",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.ico": "fd941603194f03363b2b618107cea089",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
-"flutter_bootstrap.js": "0cf7cf75bd04610b4a612d35d5ecda70",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6bedf4e43edfb78b069cb95ac6be9166",
-"/": "6bedf4e43edfb78b069cb95ac6be9166",
-"main.dart.js": "028dadfd0ee8d012ee11cb643fef5e41",
-"manifest.json": "caeeccba559c368b673d7eb758b46fc5",
+"flutter_bootstrap.js": "58235e75f14001331abca57635efe893",
+"icons/Icon-192.png": "4f94864986059d5264654ecdf0aeeaa0",
+"icons/Icon-512.png": "b226c0d8deaaf5b684c65ccd59b1e4ed",
+"index.html": "4e61f83c4df58706c65572eb9040cd76",
+"/": "4e61f83c4df58706c65572eb9040cd76",
+"main.dart.js": "f10e1d68c132800342d8313ea6d96803",
+"manifest.json": "c147894bfac50b85babf0ef79116e113",
 "version.json": "78f76505673e928c80ec6fa4eabc9ad4"};
 // The application shell files that are downloaded before a service worker can
 // start.

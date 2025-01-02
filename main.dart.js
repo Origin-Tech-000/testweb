@@ -39042,7 +39042,7 @@ return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:19}
 A.it.prototype={
-L(a){var s,r=null,q=this.c,p=q==="EMAIL"?B.NG:B.NE,o=q==="DOB (DD-MM-YYYY)",n=o||q==="PHONE"?$.azN():new A.r9(A.ck("[a-zA-Z@. ]",!0,!1),!0,"")
+L(a){var s,r=null,q=this.c,p=q==="EMAIL"?B.NG:B.NE,o=q==="DOB (DD-MM-YYYY)",n=o||q==="PHONE"?$.azN():new A.r9(A.ck("[a-zA-Z@.0-9 ]",!0,!1),!0,"")
 if(q==="PHONE")o=new A.rs(15,r)
 else o=o?new A.rs(10,r):new A.rs(150,r)
 o=A.b([n,o],t.VS)
